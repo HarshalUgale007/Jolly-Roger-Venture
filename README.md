@@ -1,2 +1,3 @@
 # Jolly-Roger-Venture
-A Beautiful Website
+Responsive Website
+created a website using JavaScript, CSS3 and HTML5
