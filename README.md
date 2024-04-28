@@ -10,7 +10,7 @@ Set amidst the vast oceans and the thrill of the unknown, the Pirate Base is a t
 
 ## Demo
 
-Embark on a thrilling voyage by checking out the live demo [here](#). But beware, for danger and excitement lurk around every corner!
+Embark on a thrilling voyage by checking out the live demo [here](https://jolly-roger-venture-green.vercel.app/). But beware, for danger and excitement lurk around every corner!
 
 ## Features
 
@@ -36,9 +36,3 @@ Avast, me hearties! The adventure doesn't end here. Here be the future improveme
 ## Contribution
 
 Ye be welcome to join the crew! If ye have ideas for improving our Pirate Base or wish to sail the seas together, raise the Jolly Roger and submit yer pull requests or open issues.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Fair winds and following seas! ⚓️
