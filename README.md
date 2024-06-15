@@ -30,7 +30,8 @@ Embark on a thrilling voyage by checking out the live demo [here](https://jolly-
 
 Avast, me hearties! The adventure doesn't end here. Here be the future improvements I plan to implement:
 
-- **Expanded Content:** Adding more treasures to discover and tales to tell within the Pirate Base..
+- **Expanded Content:** Adding more treasures to discover and tales to tell within the Pirate Base.
+
 - **Crew Collaboration:** Allowing fellow pirates to join the crew and contribute their own stories and adventures.
 - **Enhanced Navigation:** Charting a clearer course for users to navigate through the depths of the Pirate Base.
 
