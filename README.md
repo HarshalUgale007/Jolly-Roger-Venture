@@ -34,6 +34,7 @@ Avast, me hearties! The adventure doesn't end here. Here be the future improveme
 
 - **Crew Collaboration:** Allowing fellow pirates to join the crew and contribute their own stories and adventures.
 - 
+- 
 - **Enhanced Navigation:** Charting a clearer course for users to navigate through the depths of the Pirate Base.
 
 ## Contribution
