@@ -40,7 +40,3 @@ Avast, me hearties! The adventure doesn't end here. Here be the future improveme
 ## Contribution
 
 Ye be welcome to join the crew! If ye have ideas for improving our Pirate Base or wish to sail the seas together, raise the Jolly Roger and submit yer pull requests or open issues.
-
-
-
-
