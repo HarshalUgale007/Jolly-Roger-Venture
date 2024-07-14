@@ -2,7 +2,6 @@
 
 ## Summary
 
-
 This project sails you into the adventurous world of pirates with HTML, CSS, and a dash of JavaScript! It's not just a webpage; it's an immersive experience where freedom reigns and treasures await.
 
 ## Motivation
